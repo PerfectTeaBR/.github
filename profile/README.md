@@ -7,4 +7,4 @@ A PerfectTea é uma "Simples Startup" que seu intuito é deixar seus projetos Op
 Mas já fomos uma lojinha de produtos digitais, agora disponibilizamos softwares no GitHub, nós deixamos para inspirar outras empresas, e nossos repositórios podem ser usados para estudo!
 
 
-📎 https://perfecttea.squareweb.app/
+📎 https://perfecttea.squareweb.app/     📎   https://perfectteabr.github.io/Termos-de-usoWebsite/
